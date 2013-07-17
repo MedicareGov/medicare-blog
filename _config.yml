@@ -1,3 +1,4 @@
 server: true
 permalink: /:year/:title/
 markdown: rdiscount
+port: 5000
