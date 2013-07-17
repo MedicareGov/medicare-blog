@@ -1,4 +1,4 @@
-medicare-blog
+Medicare Blog
 =============
 
 Medicare.gov Blog
